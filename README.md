@@ -4,7 +4,7 @@
 
 ## Installation
 In this exercicie, I used my favourite environment for PHP development: the Docker LAMP [Devilbox](https://devilbox.readthedocs.io/). 
-You can also use the typical XAMPP, WAMP, MAMP or a advance setup like Docker or LAMP.
+You can also use the typical XAMPP, WAMP, MAMP or a advance setups like Docker or LAMP.
 
 Just create the database and copy this content of this repository following this instructions:
 
