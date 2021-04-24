@@ -1,5 +1,5 @@
 # Microframework MVC in PHP
-*Studies of MVC arquiteture in PHP: building a Microframework. Do not use this project in production. Created in the third quarter of 2020*
+*Studies of MVC arquiteture in PHP: building a Microframework. Do not use this project in production.*
 
 
 ## Installation
